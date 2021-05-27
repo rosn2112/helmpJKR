@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+    text-align: center;
+}
+h1 {
+    font-size: 100px;
+    font-style: italic;
+    
+}
+p {
+    font-size: 20px;
+    font-style: italic;
+}
